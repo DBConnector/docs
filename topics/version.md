@@ -10,7 +10,7 @@
 
 ![Nexus Release](https://img.shields.io/nexus/r/me.axolotldev.dbconnector/Core?server=https%3A%2F%2Frepo.axolotldev.me%2F)
 
-[![JavaDoc](https://skillicons.dev/icons?i=java)](https://dbc-docs.pages.dev/core) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DBConnector/Core)
+[![JavaDoc](https://skillicons.dev/icons?i=java)](https://dbc-jdocs.pages.dev/core) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DBConnector/Core)
 
 ## Internal API {id="internal-api"}
 
@@ -22,7 +22,7 @@
 
 ![Nexus Release](https://img.shields.io/nexus/r/me.axolotldev.dbconnector/Abstracts?server=https%3A%2F%2Frepo.axolotldev.me%2F)
 
-[![JavaDoc](https://skillicons.dev/icons?i=java)](https://dbc-docs.pages.dev/abstracts) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DBConnector/Abstracts)
+[![JavaDoc](https://skillicons.dev/icons?i=java)](https://dbc-jdocs.pages.dev/abstracts) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DBConnector/Abstracts)
 
 ## Database Drivers {id="database-drivers"}
 
@@ -34,4 +34,4 @@
 
 ![Nexus Release](https://img.shields.io/nexus/r/me.axolotldev.dbconnector/MySQLDriver?server=https%3A%2F%2Frepo.axolotldev.me%2F)
 
-[![JavaDoc](https://skillicons.dev/icons?i=java)](https://dbc-docs.pages.dev/drivers/mysql) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DBConnector/MySQLDriver)
+[![JavaDoc](https://skillicons.dev/icons?i=java)](https://dbc-jdocs.pages.dev/drivers/mysql) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DBConnector/MySQLDriver)
