@@ -86,10 +86,10 @@ Please refer to the [available database drivers](version.md#database-drivers).
 <tabs>
   <tab title="Java">
     <code-block lang="Java"><![CDATA[
-        import me.axolotldev.dbc.core.connect.ConnectBuilder;
-        import me.axolotldev.dbc.abstracts.database.DatabaseInfo;
+        import me.axolotldev.dbconnector.core.connect.ConnectBuilder;
+        import me.axolotldev.dbconnector.abstracts.database.DatabaseInfo;
         import me.axolotldev.dbconnector.driver.xxxDriverData;
-        import me.axolotldev.dbc.abstracts.database.Connector;
+        import me.axolotldev.dbconnector.abstracts.database.Connector;
         
         import java.util.HashMap;
         import java.util.Map;
@@ -133,10 +133,10 @@ Please refer to the [available database drivers](version.md#database-drivers).
   </tab>
   <tab title="Kotlin">
     <code-block lang="Kotlin"><![CDATA[
-        import me.axolotldev.dbc.core.connect.ConnectBuilder
-        import me.axolotldev.dbc.abstracts.database.DatabaseInfo
+        import me.axolotldev.dbconnector.core.connect.ConnectBuilder
+        import me.axolotldev.dbconnector.abstracts.database.DatabaseInfo
         import me.axolotldev.dbconnector.driver.xxxDriverData
-        import me.axolotldev.dbc.abstracts.database.Connector
+        import me.axolotldev.dbconnector.abstracts.database.Connector
         
         fun main() {
         // Create the database connection info and internal properties in one step
@@ -160,6 +160,9 @@ Please refer to the [available database drivers](version.md#database-drivers).
   </tab>
 </tabs>
 
+> Options that can be set in the `meta` field can be found [here](metadata.md)
+>
+{style="style"}
 
 5. Connection Complete!
 

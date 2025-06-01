@@ -8,4 +8,5 @@
     <toc-element topic="index.md"/>
     <toc-element topic="version.md"/>
     <toc-element topic="start.md"/>
+    <toc-element topic="metadata.md"/>
 </instance-profile>
